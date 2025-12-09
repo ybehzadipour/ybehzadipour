@@ -1,4 +1,4 @@
-# 🇮🇷 Iran Pharmaceutical Supply Chain Intelligence (TTAC Analysis)
+# Iran Pharmaceutical Supply Chain Intelligence (TTAC Analysis)
 
 > **Project Status:** 🟢 Active | **Phase:** Research & Roadmap  
 > **Domain:** Healthcare Supply Chain, Crisis Management, Pharmacoeconomics
